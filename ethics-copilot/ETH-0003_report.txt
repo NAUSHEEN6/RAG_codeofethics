@@ -1,0 +1,25 @@
+ETHICS CASE REPORT
+==================
+
+Case ID:
+ETH-0003
+
+Created:
+2026-08-30T15:08:43.719624
+
+Employee Question:
+my manager is showing partiality to tamil people our team what to do
+
+Policy Section:
+2.3 Harassment
+
+Policy Page:
+16
+
+Assessment:
+The Code of Business Ethics states that you must not disrespect others because of their skin color or race, as this could be considered harassment (Section 2.3, Page 16). If your team manager treats you with disrespect or is intimidating, this could also be classified as harassment (Section 2.3, Page 16).
+
+If you feel that you or any of your fellow team members are not treated professionally, you can raise the issue directly with your team manager. If you feel uncomfortable with this approach, you should discuss the matter with your human resources manager instead (Section 2.3, Page 16). The Code advises that if you are facing an issue involving harassment, you should not keep it to yourself and will get help and support by discussing it with your team manager or human resources manager (Section 2.3, Page 16).
+
+Status:
+OPEN

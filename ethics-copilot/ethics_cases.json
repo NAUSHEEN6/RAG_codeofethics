@@ -1,0 +1,29 @@
+[
+  {
+    "case_id": "ETH-0001",
+    "created_at": "2026-08-30T14:34:10.745917",
+    "employee_question": "What is SpeakUp?",
+    "policy_section": "1.3 SpeakUp",
+    "policy_page": 11,
+    "assessment": "SpeakUp is a web and phone-based ethics concerns reporting and incident management tool.",
+    "status": "OPEN"
+  },
+  {
+    "case_id": "ETH-0002",
+    "created_at": "2026-08-30T14:47:54.788402",
+    "employee_question": "my manager is sending me rude messages\n",
+    "policy_section": "2.3 Harassment",
+    "policy_page": 16,
+    "assessment": "Based on the Code of Business Ethics, if your team manager treats you with disrespect, this could be classified as harassment (Source 1, Page 16). Rude messages from your manager could be considered a form of disrespectful treatment.\n\nThe Code states that \"We all have a right to be treated with respect and courtesy, and a duty to treat others this way\" and that the Group maintains a work environment free of harassment (Source 5, Page 16).\n\nIf you are facing an issue involving harassment, you are encouraged to discuss it openly. You can raise the issue directly with your team manager. If you feel uncomfortable with this approach, you should discuss the matter with your human resources manager instead (Source 1, Page 16).",
+    "status": "OPEN"
+  },
+  {
+    "case_id": "ETH-0003",
+    "created_at": "2026-08-30T15:08:43.719624",
+    "employee_question": "my manager is showing partiality to tamil people our team what to do",
+    "policy_section": "2.3 Harassment",
+    "policy_page": 16,
+    "assessment": "The Code of Business Ethics states that you must not disrespect others because of their skin color or race, as this could be considered harassment (Section 2.3, Page 16). If your team manager treats you with disrespect or is intimidating, this could also be classified as harassment (Section 2.3, Page 16).\n\nIf you feel that you or any of your fellow team members are not treated professionally, you can raise the issue directly with your team manager. If you feel uncomfortable with this approach, you should discuss the matter with your human resources manager instead (Section 2.3, Page 16). The Code advises that if you are facing an issue involving harassment, you should not keep it to yourself and will get help and support by discussing it with your team manager or human resources manager (Section 2.3, Page 16).",
+    "status": "OPEN"
+  }
+]

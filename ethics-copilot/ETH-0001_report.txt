@@ -1,0 +1,23 @@
+ETHICS CASE REPORT
+==================
+
+Case ID:
+ETH-0001
+
+Created:
+2026-08-30T14:34:10.745917
+
+Employee Question:
+What is SpeakUp?
+
+Policy Section:
+1.3 SpeakUp
+
+Policy Page:
+11
+
+Assessment:
+SpeakUp is a web and phone-based ethics concerns reporting and incident management tool.
+
+Status:
+OPEN
